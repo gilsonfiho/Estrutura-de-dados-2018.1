@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525715029 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\trabalho1\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1525714954 c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\trabalho1\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1525667895 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\trabalho1\fila2.c
+

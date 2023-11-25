@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523853016 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1523646345 c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1523852970 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+

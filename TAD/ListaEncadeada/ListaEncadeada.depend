@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523755386 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1523755548 c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\listaencadeada\listaencadeada.h
+
+1523753677 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\listaencadeada\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+

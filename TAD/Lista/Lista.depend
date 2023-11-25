@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523296098 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\aulapratica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD.h"
+
+1523297683 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\aulapratica\tad.c
+	<stdio.h>
+	<stdlib.h>
+	"TAD.h"
+
+1523295927 c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\aulapratica\tad.h
+	<stdio.h>
+	<stdlib.h>
+

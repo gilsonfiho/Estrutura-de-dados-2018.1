@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522726303 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\ponto\main.c
+	<stdio.h>
+	"ponto.h"
+
+1522726323 source:c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\ponto\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Ponto.h"
+
+1522726298 c:\users\gilson\desktop\terceiro semestre\estruturas de dados\programas\tad\ponto\ponto.h
+
